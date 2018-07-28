@@ -17,6 +17,6 @@ function sayHiToGrandma(string){
   var lowercase = 'hello!'
   if lowercase.toLowerCase() === lowercase
     {console.log('I can\'t hear you!')}
-  if
-  
+  if `string` === 'I love you, Grandma.'
+    {console.log('I love you, too.')
 }
