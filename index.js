@@ -16,5 +16,7 @@ function sayHiToGrandma(string){
     {console.log('YES INDEED!')}
   var lowercase = 'hello!'
   if lowercase.toLowerCase() === lowercase
-    {console.log('I can)
+    {console.log('I can\'t hear you!')}
+  if
+  
 }
